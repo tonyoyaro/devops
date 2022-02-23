@@ -1,1 +1,1 @@
-Feature branch not working as expected.
+Feature branch now working as expected.
